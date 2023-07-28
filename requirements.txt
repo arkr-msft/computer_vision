@@ -3,3 +3,6 @@ torchvision
 torchsummary
 matplotlib
 ipywidgets
+ipython
+pylint
+pytest
